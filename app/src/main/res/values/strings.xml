@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">BK Falken</string>
+    <string name="jabbTxt">Jabb:</string>
+    <string name="Utveckling">Utveckling</string>
+    <string name="crossTxt">Cross:</string>
+    <string name="leadHK">Främre krok:</string>
+    <string name="rearHK">Bakre krok:</string>
+    <string name="settings">Inställningar</string>
+    <string name="namn">Namn:</string>
+    <string name="lenght">Längd</string>
+    <string name="age">Ålder</string>
+    <string name="weight">Vikt</string>
+    <string name="stance">Stance</string>
+    <string name="löpa">Löpning:</string>
+    <string name="ronder">Antal Ronder</string>
+    <string name="sparring">Sparring:</string>
+    <string name="myWorkouts">Mina Skapade Träningspass</string>
+    <string name="hopprep">Hopprep:</string>
+    <string name="skuggBoxning">Skuggboxning:</string>
+    <string name="armhävningar">Armhävningar:</string>
+    <string name="sittups">Situps:</string>
+    <string name="plankan">Plankan:</string>
+    <string name="add">Lägg Till</string>
+    <string name="spara">Spara</string>
+    <string name="skapaTräningsPass">Skapa träningspass</string>
+    <string name="matcher">Matcher</string>
+    <string name="träningar">Träningar</string>
+    <string name="schema">Schema</string>
+    <string name="konto">Konto Inställningar</string>
+    <string name="antalRep">Antal ronder hopprep:</string>
+    <string name="antalSkugg">Antal ronder skuggboxning:</string>
+    <string name="antalPush">Antal armhävningar:</string>
+    <string name="antalSitups">Antal situps:</string>
+    <string name="antalPlankan">Antal min plankan:</string>
+    <string name="antalJogg">Antal km löpning:</string>
+    <string name="antalSparr">Antal ronder sparring:</string>
+    <string name="antalMin">Antal Min</string>
+    <string name="antal">Antal</string>
+    <string name="antalKM">Antal KM</string>
+
+    <string-array name="stances">
+        <item>Orthodox</item>
+        <item>Southpaw</item>
+    </string-array>
+
+    <string-array name="workoutForms">
+        <item>Hopprep</item>
+        <item>Skuggboxning</item>
+        <item>Armhävningar</item>
+        <item>Situps</item>
+        <item>Plankan</item>
+        <item>Löpning</item>
+        <item>Sparring</item>
+    </string-array>
+
+    <string-array name="calendarChanges">
+        <item>Match</item>
+        <item>Träning</item>
+        <item>Övrig event</item>
+        <item>Ställ in</item>
+    </string-array>
+
+    <string-array name="kontotyp">
+        <item>Matchboxare</item>
+        <item>Tränare</item>
+    </string-array>
+
+    <string name="title_activity_matchboxare_fragm">BK Falken</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="anslagstavla">Anslagstavla</string>
+    <string name="kontakta">Skicka Meddelande</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CurrentWeight">Nuvarande Vikt</string>
+    <string name="title_activity_coach_main_screen">CoachMainScreen</string>
+    <string name="match">Lägg till match</string>
+    <string name="registrera">Registrera Användare</string>
+    <string name="epost">E-post Adress</string>
+    <string name="password">Lösenord</string>
+    <string name="förnamn">Förnamn</string>
+    <string name="efternamn">Efternamn</string>
+    <string name="kontotyp">Kontotyp</string>
+    <string name="bkfalkensboxare">BK Falkens Boxare</string>
+    <string name="update">Uppdatera</string>
+    <string name="importeradePass">Tilldelade Träningspass</string>
+    <string name="startaTräning">Start Workout</string>
+    <string name="tabort">Ta Bort träningspass</string>
+    <string name="rest">Vila</string>
+    <string name="starta">Starta</string>
+    <string name="pausa">Pausa</string>
+    <string name="vinster">Vinster</string>
+    <string name="about">Denna app är gjord för matchboxarna och tränarna i BK Falken.</string>
+    <string name="motto">SIC VIS PACEM, PARABELLUM</string>
+    <string name="kommunikation">Kommunikation</string>
+    <string name="event">Skapa Event</string>
+    <string name="boxare">Boxare</string>
+    <string name="uppdateraKonto">Uppdatera Kontouppgifter</string>
+    <string name="publikaTräningspass">Publika träningspass</string>
+    <string name="visa">Visa</string>
+    <string name="egnaTräningpass">Egna träningspass</string>
+    <string name="skapadeTräningspass">Skapade träningspass</string>
+    <string name="skapaNyPass">Skapa ny träningspass</string>
+    <string name="bkfalken">BK Falken</string>
+    <string name="loggin">Logga In</string>
+    <string name="reset">Reset password</string>
+    <string name="omappen">Om appen</string>
+    <string name="header">Header</string>
+    <string name="visaEvent">Event</string>
+
+
+</resources>

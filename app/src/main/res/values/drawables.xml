@@ -1,0 +1,20 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_fight" type="drawable">@drawable/fight</item>
+    <item name="ic_belt" type="drawable">@drawable/champbelt</item>
+    <item name="ic_update" type="drawable">@drawable/update</item>
+    <item name="ic_settings" type="drawable">@drawable/settings</item>
+    <item name="ic_bkfalken" type="drawable">@drawable/bkfalken</item>
+    <item name="ic_about" type="drawable">@drawable/about</item>
+    <item name="ic_calender" type="drawable">@drawable/calender</item>
+    <item name="ic_comments" type="drawable">@drawable/comments</item>
+    <item name="ic_punch" type="drawable">@drawable/punch</item>
+    <item name="ic_statistics" type="drawable">@drawable/statistics</item>
+    <item name="ic_glove" type="drawable">@drawable/boxingglove</item>
+
+</resources>
